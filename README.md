@@ -16,7 +16,7 @@ Immobilized crowd can be found out by the rescuing teams by nearby mobile people
 <img src="https://github.com/DivyanshMalhotra/Future-Gadget-Labs-HINT/blob/master/Meishu.png">
 
 
-###System Description
+### System Description
 
 The system consists of three main parts
 #### 1. Aerial Part- 
