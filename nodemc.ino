@@ -30,7 +30,10 @@ void loop() {
 
   // Read the request line
   String request = client.readStringUntil('\r');
-  Serial.println(request);
+  
+  if(request.indexOf("/led/")!=-1){
+    Serial.println(request.substring(5));
+    }
   client.flush();
   
   // Match request
@@ -55,7 +58,7 @@ void loop() {
   // Send the response to the client
   client.print(s);
   delay(1);
-  Serial.println("Client disconnected");
+  //Serial.println("Client disconnected");
 
   // The client will actually be disconnected when the function returns and the client object is destroyed
 }
