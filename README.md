@@ -4,8 +4,7 @@
 Disaster refers to a widespread severe disruption of the social, economic and environmental resources of a community which affects every sphere of life equally, be it a rich man or a poor man, or even animals. The major causes which causes distress once a disaster has occurred is lack of information and loss of information conveying capability in such cases. In the proposed idea, we aid the rescuing process multifold. In cases of floods and other water related calamities, it is the safest practice to find the highest ground possible to stay away from water and prevent you from drowning. In cases of calamities like earthquakes which scatters the mass and makes it harder and much more expensive for the rescuing teams to find individuals who are stuck for appropriate directions, a common and often higher planar ground for easy identification is desirable. Hence, we propose a solution which uses drones to 3D map the whole disaster stricken area, map the points according to their height, and deliver this, along with any other crucial information to the user smartphones using a developed app which offers a fast and reliable point-to-point communication protocol to get connected to the drones already in the process of 3D mapping, and receives crucial information to the user. Further, the communication is made two way where a user, along with their localized position in the 3D map, could give a distress message for stuck-immobile people using the connection itself by pushing a simple button. This solution aims to solve the problem of gathering valuable data in a precise and efficient way using drones and also the problem of lack of communication link, by making a short ranged P2P communication link with devices that is possessed by a very large portion of the population, i.e., mobile to drone communication, all while making the . The saved information are then relayed to the rescue team to pinpoint the rescue operation and localized map the whole area. The name Meishu means a leading power in Japanese which symbolizes the navigating functionality of the drones to find the apex.
 
 
-<img src="https://github.com/DivyanshMalhotra/Future-Gadget-Labs-HINT/Flowchart Meishu.png" >
-
+<img src="https://github.com/DivyanshMalhotra/Future-Gadget-Labs-HINT/blob/dev/Meishu.png" align="left" height="550" width="280" >
 ### Key Features
 1. The mobile to drone communication relies on LAN, hence no external network is needed. We aim to use NodeMCU for the communication part with an android application on the smartphone. Therefore, there is no dependance of the drone or the user mobile phones to any other external factor, signals from towers, satellite signals, etc. 
 2. A very large area can be scanned by the drone in short amounts of time using efficient utilization of resources, cheap add-ons and automated navigation using reliability to only GPS coordinates (Satellite inferencing). 
@@ -13,8 +12,7 @@ Communication to people and a channel of interaction can be formed where human r
 3. Highest ground and a safe area is notified using a localized map which helps the rescuing operation significantly.
 Immobilized crowd can be found out by the rescuing teams by nearby mobile people or immobile people having the access of a smartphone
 
-<img src="https://github.com/DivyanshMalhotra/Future-Gadget-Labs-HINT/Meishu.png" >
-
+<img src="https://github.com/DivyanshMalhotra/Future-Gadget-Labs-HINT/blob/dev/Flowchart Meishu.png" align="left" height="550" width="280" >
 
 ###System Description
 
